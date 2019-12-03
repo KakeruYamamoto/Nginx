@@ -6,6 +6,8 @@ ruby '2.6.5'
 gem 'graphql', '<= 1.7'
 gem 'graphiql-rails', '<= 1.5'
 
+# gem 'graphiql-rails', '<= 1.5'
+
 gem 'unicorn'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.1'
